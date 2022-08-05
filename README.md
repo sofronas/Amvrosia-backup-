@@ -1,4 +1,5 @@
-# Amvrosia-backup
+# Automate backup for Sunsoft - Amvrosia
 
-Get Amvrosia database file which is produced by sceduled task from sql server.
-After uploading in ftp server an email notification sended to user.
+- SQL Server has a scheduled backup file every time user has set up. <br/>
+- This file is located and uploaded in ftp server.<br/>
+- When the process is finished an email notification is being send to user. <br/>
